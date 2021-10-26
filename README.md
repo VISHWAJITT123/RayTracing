@@ -1,7 +1,7 @@
 # Ray Tracing
 
 * Ray trace and draw a plane, some sphere objects, some cube objects
-* * Read in material properties of sphere and cube objects including:
+* Read in material properties of sphere and cube objects including:
 	* Surface color
 	* Emission color
 	* Reflection coefficient( $k_a,k_d,k_{sp},sunshiness$ )
