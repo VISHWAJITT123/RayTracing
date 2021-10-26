@@ -19,7 +19,7 @@
 		* Light Ray
 		* Objects: Sphere,Plane,Cube,Model
 	* *main.cpp* implements tracing and rendering, creates a scene and displays it.
-	* * *phofile_photo.bmp* a demo image texture
+	* *phofile_photo.bmp* a demo image texture
 
 * In Result file:
 	* screenshots of the demo scene
